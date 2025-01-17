@@ -14,7 +14,7 @@ I am a software engineer passionate about building user-centric applications and
 
 ## 🌟 Key Projects
 1. **AI-Powered Recommendation App**: An app that suggests movies and music based on user mood using OpenAI API.
-2. **Shift Management System**: Automated schedule generation and cost calculation for small businesses.
+2. **DeFi Blockchain Frontend Development**: Designed and developed the frontend for a decentralized finance system, integrating blockchain data for user-friendly visualization and interaction.
 3. **Financial Data Filtering Tool**: Displays and filters financial data using APIs and dynamic UIs.
 
 Feel free to connect with me for collaboration or opportunities!
