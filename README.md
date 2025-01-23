@@ -11,6 +11,7 @@ I am a software engineer passionate about building user-centric applications and
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusukekikuta0509&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yusukekikuta0509&theme=github)
 
 ## 🌟 Key Projects
 1. **AI-Powered Recommendation App**: An app that suggests movies and music based on user mood using OpenAI API.
