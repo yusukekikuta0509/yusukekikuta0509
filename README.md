@@ -1,4 +1,4 @@
-# Hi there! 👋 I’m Yusuke Kikuta
+# Hi there! 👋 I’m Yusuke！
 
 I’m a blockchain developer passionate about building user-centric DeFi applications and automating on-chain workflows. With hands-on experience in both frontend and backend blockchain integration, I specialize in creating scalable, secure solutions that bridge Web2 and Web3.
 
